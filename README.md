@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/umar123xposed/umar123xposed/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/umar123xposed/output/snake.svg" alt="Snake animation" />
 
 ###

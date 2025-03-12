@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=umar123xposed&theme=dark&hide_current_streak=true" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=umar123xposed&theme=deuteranopia-friendly-theme&border_radius=6&hide_current_streak=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umar123xposed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
